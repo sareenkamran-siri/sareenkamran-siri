@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sareen Kamran
 
-<!--
-**sareenkamran-siri/sareenkamran-siri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artificial Intelligence student at FAST–NUCES, building practical web tools and C++ games.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working projects and learning through hands-on development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Languages:** C++, Python, JavaScript
+- **Web:** HTML, CSS, responsive design
+- **Game Development:** OpenGL/GLUT, learning Unreal Engine
+- **Tools:** Git, GitHub, Linux
+
+## Featured Projects
+
+### [ParhoDesk](https://sareenkamran-siri.github.io/parhodesk/)
+A free student toolkit featuring GPA and attendance calculators, a semester dashboard, flashcards, exam planning and writing tools.
+
+**Built with:** HTML, CSS and JavaScript
+
+### Galaxy Defender
+A C++ survival shooter with player movement, enemy spawning, collision detection, scoring and saved player records.
+
+**Built with:** C++ and OpenGL/GLUT
+
+### Sentiment Classifier
+A Python project that classifies movie reviews using Naive Bayes, with text preprocessing, vocabulary building and model evaluation.
+
+**Built with:** Python
+
+## Currently Learning
+
+- Object-oriented programming
+- Machine learning fundamentals
+- Unreal Engine game development
+- Building accessible, responsive websites
+
+## Contact
+
+- **Email:** sareenkamran1907@gmail.com
+- **GitHub:** [sareenkamran-siri](https://github.com/sareenkamran-siri)

@@ -13,9 +13,14 @@ I enjoy turning ideas into working projects and learning through hands-on develo
 
 ## Featured Projects
 
+### [ByteGuide Tools](https://byteguidevx.com/)
+A responsive website offering 111 free utilities for students, developers and everyday tasks. Features include PDF conversion and editing, document scanning with automatic cropping and filters, English/Urdu image-to-text recognition, image processing, CGPA calculators and study planners. Tools process files directly in the browser, with no signup required.
+
+Built with: WordPress, PHP, JavaScript, HTML and CSS.
+
 ### [ParhoDesk](https://sareenkamran-siri.github.io/parhodesk/)
 A free student toolkit featuring GPA and attendance calculators, a semester dashboard, flashcards, exam planning and writing tools.
-### [ByteGuide Tools](https://byteguidevx.com/)
+
 
 **Built with:** HTML, CSS and JavaScript
 
